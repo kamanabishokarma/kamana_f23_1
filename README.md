@@ -10,6 +10,6 @@ Tag line
 
 [My Fav Websites](http:/www.amazon.ca)
 
-![Fender Telecaster]() 
+![Fender Telecaster](images/tele.jpg) 
 
 <!--Will this show up?-->
